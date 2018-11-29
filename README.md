@@ -8,4 +8,6 @@ then, you can sign up to the classes that you are participating and in which you
 the teacher needs to approve you before you can start uploading your files
 then, you can send your files, the teacher can download them and grade them and also gives them a feedback.
 
+The website was made in spanish for a university project.
+
 Any other question, let me know.
